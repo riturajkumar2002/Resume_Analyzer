@@ -44,7 +44,7 @@ Make sure you have Python and Git installed.
 ### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/Altoks-AI/AI-Resume-Analyzer.git
+git clone https://github.com/riturajkumar2002/AI-Resume-Analyzer.git
 ```
 ```
 cd FolderName
